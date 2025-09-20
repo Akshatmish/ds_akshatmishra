@@ -18,6 +18,7 @@ The goal of this project is to explore the relationship between **trader perform
 2. **Hyperliquid Historical Trader Dataset**
    - Columns include: `account`, `symbol`, `execution price`, `size`, `side`, `time`, `start position`, `event`, `closedPnL`, etc.
 
+3. **Large CSV files are zipped to fit GitHub limits.**
 ## ⚙️ Setup
 1. Open `notebook_1.ipynb` in **Google Colab**.  
 2. Upload the datasets into the `csv_files/` directory or load them directly from source.  
