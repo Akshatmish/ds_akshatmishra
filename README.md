@@ -1,4 +1,4 @@
-ds_<candidate_name>/
+ds_akshatmishra/
 ├── notebook_1.ipynb # Main Google Colab notebook with analysis
 ├── csv_files/ # Stores all input and processed CSV files
 
